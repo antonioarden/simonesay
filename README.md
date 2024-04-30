@@ -1,0 +1,2 @@
+# simonesay
+implementing dom js
